@@ -1,0 +1,16 @@
+1122|Dasar-Dasar Teknik Informatika
+|Made Budi
+|Erlangga
+|217|2017|100
+| ID BUKU    | JUDUL BUKU                               | PENULIS              | PENERBIT             | HALAMAN    | TAHUN TERBIT   | JUMLAH BUKU YANG TERSEDIA |
+|----------- |----------------------------------------  |--------------------  |--------------------  |----------- |--------------  |--------------------------|
+| 1122       | Dasar-Dasar Teknik Informatika           | Made Budi            | Erlangga             | 217        | 2017           | 100        |
+| ID BUKU    | JUDUL BUKU                               | PENULIS              | PENERBIT             | HALAMAN    | TAHUN TERBIT   | JUMLAH BUKU YANG TERSEDIA |
+|----------- |----------------------------------------  |--------------------  |--------------------  |----------- |--------------  |--------------------------|
+| 2233       | Pengantar Tekologi Informasi             | Dr.Ir. Setyo Wibowo  | Gagas media          | 280        | 2020           | 89         |
+| ID BUKU    | JUDUL BUKU                               | PENULIS              | PENERBIT             | HALAMAN    | TAHUN TERBIT   | JUMLAH BUKU YANG TERSEDIA |
+|----------- |----------------------------------------  |--------------------  |--------------------  |----------- |--------------  |--------------------------|
+| 1122       | Dasar-Dasar Teknik Informatika           | Made Budi            | Erlangga             | 217        | 2017           | 100        |
+| ID BUKU    | JUDUL BUKU                               | PENULIS              | PENERBIT             | HALAMAN    | TAHUN TERBIT   | JUMLAH BUKU YANG TERSEDIA |
+|----------- |----------------------------------------  |--------------------  |--------------------  |----------- |--------------  |--------------------------|
+| 2233       | Pengantar Tekologi Informasi             | Dr.Ir. Setyo Wibowo  | Gagas Media          | 380        | 2020           | 89         |
